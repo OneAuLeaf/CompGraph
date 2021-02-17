@@ -1,0 +1,22 @@
+﻿  camera.cpp
+  framebuffer.cpp
+  global.cpp
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(50,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(200,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(201,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(205,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(206,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(208,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(209,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\global.cpp(216,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+  object.cpp
+E:\Projects\машграф\проект\MashGraph\MashGraph\object.cpp(14,56): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\object.cpp(46,56): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Projects\машграф\проект\MashGraph\MashGraph\object.cpp(47,88): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  shader.cpp
+  stb_image.cpp
+  texture.cpp
+  Создание кода...
+  glad.c
+  MashGraph.vcxproj -> E:\Projects\машграф\проект\MashGraph\x64\Debug\MashGraph.exe

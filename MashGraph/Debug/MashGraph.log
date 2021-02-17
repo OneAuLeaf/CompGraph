@@ -1,0 +1,4 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+E:\Programs\GLFW\Libs\lib\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+E:\Projects\машграф\проект\MashGraph\Debug\MashGraph.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
