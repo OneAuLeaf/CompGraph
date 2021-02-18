@@ -75,5 +75,7 @@
     <Text Include="shaders\light.fsh" />
     <Text Include="shaders\framebuffer.fsh" />
     <Text Include="shaders\framebuffer.vsh" />
+    <Text Include="shaders\plane.fsh" />
+    <Text Include="shaders\plane.vsh" />
   </ItemGroup>
 </Project>
